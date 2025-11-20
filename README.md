@@ -146,11 +146,6 @@ Vendor-level detailed page with:
 
 ---
 
-## 🔗 Live Dashboard
-
-(Insert your Power BI public shareable link here)
-
----
 
 ## 💻 Repository Structure
 
